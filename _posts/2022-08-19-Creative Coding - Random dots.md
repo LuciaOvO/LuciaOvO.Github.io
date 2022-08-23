@@ -11,7 +11,7 @@ This page uses ``` Random() ``` to try two different simple effects to show inte
 
 🌟The first one is a random color, where various colored circles are randomly distributed.
 
-🌟The second one is a combination of randomly sized circles and random colors, trying to make a three-dimensional painting.
+🌟The second one is a combination of random-sized circles and random colors, trying to make a three-dimensional painting, like walking on glass.
 
 <iframe width=600 height=442 src="https://editor.p5js.org/LuciaOvO/full/d97qMJSTB"></iframe>
 
@@ -123,8 +123,10 @@ function draw() {  // loops, after setup has run
   ellipse(mouseX+17, mouseY+20, size.X, size.Y);
    
 }
-
-
 ```
+# 🌟 Reference Link 🌟
+
+<https://www.youtube.com/watch?v=nfmV2kuQKwA>
+
 
 

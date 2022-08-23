@@ -87,7 +87,7 @@ function draw() { // loops, after setup has run
   if(increment > 40){ // if increment greater than 20 
      
     
-    Circle.push(new Clock()); 
+    Circle.push(new Clock()); // run this function 
     
     increment = 0; // let increment equal to 0
   }
